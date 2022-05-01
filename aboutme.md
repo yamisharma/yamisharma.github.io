@@ -1,16 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: YAMINI SHARMA
+subtitle: Davis, CA
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am an undergraduate student at the University of California, Davis. I am currently continuining my journey as a software engineer at a stealth startup and exploring the realms of venture capital as an analyst at a VC firm.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### my journey
