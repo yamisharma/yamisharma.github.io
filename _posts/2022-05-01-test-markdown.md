@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Financial Markets
+subtitle: Let's dive into Public vs Private Markets, IPOs, SPACs and more
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+NASDAQ, S&P 500, Dow Jones -- what do these three names have in common? What does an IPO mean? Can I invest in private markets? Let's dive into that.
 
 **Here is some bold text**
 
