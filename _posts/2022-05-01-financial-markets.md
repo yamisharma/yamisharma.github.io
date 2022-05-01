@@ -8,7 +8,7 @@ tags: [test]
 comments: true
 ---
 
-NASDAQ, S&P 500, Dow Jones -- what do these three names have in common? What does an IPO mean? Can I invest in private markets? Let's dive into that.
+NASDAQ, S & P 500, Dow Jones -- what do these three names have in common? What does an IPO mean? Can I invest in private markets? Let's dive into that.
 
 **Here is some bold text**
 
